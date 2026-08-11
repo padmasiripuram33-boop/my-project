@@ -1,4 +1,6 @@
 devops lab
 devops using in the gitbash
+this is file2 modifing
+82c02ad (HEAD -> master)
+file2 on working
 
-82c02ad (HEAD -> master) 
