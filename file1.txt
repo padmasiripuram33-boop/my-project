@@ -1,1 +1,3 @@
 git commands
+cloning the file1 data
+remote repository to local repository
